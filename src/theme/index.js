@@ -21,7 +21,7 @@ export default {
 		]
 	},
 	"color": {
-		"dark": "#04080C",
+		"dark": "#191A1D",
 		"darkL1": "#0E1317",
 		"darkL2": "#191E22",
 		"grey": "#6F839F",
